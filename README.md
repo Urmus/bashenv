@@ -1,2 +1,2 @@
 # bashenv
-Bash tools for your Cytgwin/Linux terminal
+Bash tools for your Cygwin/Linux terminal
